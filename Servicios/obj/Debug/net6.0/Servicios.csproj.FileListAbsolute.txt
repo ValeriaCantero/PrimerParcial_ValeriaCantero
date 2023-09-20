@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\bin\Debug\net6.0\Servicios.deps.json
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\bin\Debug\net6.0\Servicios.dll
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\bin\Debug\net6.0\Servicios.pdb
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\bin\Debug\net6.0\Infraestructura.dll
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\bin\Debug\net6.0\Infraestructura.pdb
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\obj\Debug\net6.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\obj\Debug\net6.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfo.cs
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\obj\Debug\net6.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\obj\Debug\net6.0\Servicios.csproj.CopyComplete
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\obj\Debug\net6.0\Servicios.dll
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\obj\Debug\net6.0\refint\Servicios.dll
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\obj\Debug\net6.0\Servicios.pdb
+C:\Users\Dell\source\repos\PrimerParcial\Servicios\obj\Debug\net6.0\ref\Servicios.dll

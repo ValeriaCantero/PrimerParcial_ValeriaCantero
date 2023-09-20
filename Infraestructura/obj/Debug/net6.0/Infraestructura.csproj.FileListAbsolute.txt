@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\PrimerParcial\Infraestructura\bin\Debug\net6.0\Infraestructura.deps.json
+C:\Users\Dell\source\repos\PrimerParcial\Infraestructura\bin\Debug\net6.0\Infraestructura.dll
+C:\Users\Dell\source\repos\PrimerParcial\Infraestructura\bin\Debug\net6.0\Infraestructura.pdb
+C:\Users\Dell\source\repos\PrimerParcial\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\PrimerParcial\Infraestructura\obj\Debug\net6.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\PrimerParcial\Infraestructura\obj\Debug\net6.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\PrimerParcial\Infraestructura\obj\Debug\net6.0\Infraestructura.AssemblyInfo.cs
+C:\Users\Dell\source\repos\PrimerParcial\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PrimerParcial\Infraestructura\obj\Debug\net6.0\Infraestructura.dll
+C:\Users\Dell\source\repos\PrimerParcial\Infraestructura\obj\Debug\net6.0\refint\Infraestructura.dll
+C:\Users\Dell\source\repos\PrimerParcial\Infraestructura\obj\Debug\net6.0\Infraestructura.pdb
+C:\Users\Dell\source\repos\PrimerParcial\Infraestructura\obj\Debug\net6.0\ref\Infraestructura.dll
